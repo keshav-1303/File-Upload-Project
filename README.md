@@ -1,6 +1,6 @@
 # DriveProject
 
-This is a web application for managing and storing files, built with Node.js, Express, and MongoDB.
+This is an application for managing and storing files, built with Node.js, Express, and MongoDB.
 
 ## Technologies Used
 
